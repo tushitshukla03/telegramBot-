@@ -13,6 +13,8 @@
     "ngrok": "^3.4.0"
   },
   "dependencies": {
-    "node-telegram-bot-api": "^0.51.0"
+    "axios": "^1.4.0",
+    "dotenv": "^16.0.3",
+    "node-telegram-bot-api": "^0.61.0"
   }
 }
